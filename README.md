@@ -1,4 +1,4 @@
 # Project_1
 This  is my first git repository.
 <br>
-Author - Manoj Kumar
+Author - Manoj Kumar Mandal
